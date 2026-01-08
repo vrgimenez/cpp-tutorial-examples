@@ -12,7 +12,14 @@ set(CMAKE_CXX_STANDARD_REQUIRED TRUE)
 set(EXECUTABLES
     ClasesAbstractas
     ColeccionEnteros
+    ColeccionGenerica
+    ColeccionGenericaPtr
     ColeccionVector
+    ContadorSTL
+    ExcepcionesRAII
+    FactorialAsync
+    FileIO
+    FuturePromise
     HerenciaPoliAnimales
     Inventario_IA_solution
     Inventario
@@ -21,6 +28,7 @@ set(EXECUTABLES
     multithreading_example
     multithreading_example_detach
     multithreading_example_sharedVector
+    MutexRAII
     Notificacion_IA_payload
     Notificacion_IA_solution1
     Notificacion_IA_solution2
